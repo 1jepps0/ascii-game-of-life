@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION "3.19.2")
+project(game_of_life)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_BUILD_TYPE Debug)
+add_executable(game_of_life.exe main.cpp)

@@ -1,0 +1,2 @@
+cmake ../code
+cmake --build .
